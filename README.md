@@ -8,7 +8,7 @@ This is Brainfuck with additional function calls and miscellaneous features to e
 > **Warning**
 > Not yet implemented
 
-## Compilation
+## Compile
 
 ```
 bfg <folder location> <output file>.bfg
