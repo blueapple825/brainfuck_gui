@@ -2,10 +2,11 @@
 
 This is Brainfuck with additional function calls and miscellaneous features to enable GUI programming.
 
+
 # Usage
 
-**Warning**
-Not yet implemented
+> **Warning**
+> Not yet implemented
 
 ## Compilation
 
@@ -18,6 +19,7 @@ bfg <folder location> <output file>.bfg
 ```
 bfgvm <file>.bfg
 ```
+
 
 # Bytecode
 
